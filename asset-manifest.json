@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/niconei/react-3d-rendering/static/css/main.1291ff0f.css",
+    "main.js": "/niconei/react-3d-rendering/static/js/main.a344b42f.js",
+    "static/js/787.db1f30b8.chunk.js": "/niconei/react-3d-rendering/static/js/787.db1f30b8.chunk.js",
+    "index.html": "/niconei/react-3d-rendering/index.html",
+    "main.1291ff0f.css.map": "/niconei/react-3d-rendering/static/css/main.1291ff0f.css.map",
+    "main.a344b42f.js.map": "/niconei/react-3d-rendering/static/js/main.a344b42f.js.map",
+    "787.db1f30b8.chunk.js.map": "/niconei/react-3d-rendering/static/js/787.db1f30b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1291ff0f.css",
+    "static/js/main.a344b42f.js"
+  ]
+}
